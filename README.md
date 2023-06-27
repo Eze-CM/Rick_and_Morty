@@ -11,8 +11,8 @@ To run this application locally, follow these steps:
  1. Clone the repository to your local machine.
  2. Navigate to the project directory.
  3. Install the dependencies by running the command `npm install`.
- 4. Start the development server using `npm start`.
- 5. Open your browser and go to http://localhost:3000 to see the app in action.
+ 4. Start the development server using `npm run dev`.
+ 5. Open your browser and go to http://localhost:5173 to see the app in action.
 
 ## Usage
 Once the application is up and running, you can use the following features:
@@ -44,8 +44,8 @@ Para ejecutar esta aplicación de forma local, sigue estos pasos:
  1. Clona el repositorio en tu máquina local.
  2. Navega hasta el directorio del proyecto.
  3. Instala las dependencias ejecutando el comando `npm install`.
- 4. Inicia el servidor de desarrollo con `npm start`.
- 5. Abre tu navegador y ve a http://localhost:3000 para ver la aplicación en acción.
+ 4. Inicia el servidor de desarrollo con `npm run dev`.
+ 5. Abre tu navegador y ve a http://localhost:5173 para ver la aplicación en acción.
 
 ## Uso
 Una vez que la aplicación esté en funcionamiento, puedes utilizar las siguientes características:
