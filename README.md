@@ -1,4 +1,4 @@
-# Rick and Morty React App
+# Rick and Morty Vite App
 This project is a React application that utilizes the Rick and Morty API to display information about the characters, episodes, and locations from the popular animated TV show, Rick and Morty.
 
 ## Features
@@ -30,7 +30,7 @@ This project makes use of the [Rick and Morty API](https://rickandmortyapi.com) 
 
 <br>
 
-# Aplicación de Rick and Morty en React
+# Aplicación de Rick and Morty con Vite
 Este proyecto es una aplicación de React que utiliza la API de Rick and Morty para mostrar información sobre los personajes, episodios y lugares de la popular serie de televisión animada, Rick and Morty.
 
 ## Características
